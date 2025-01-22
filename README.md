@@ -8,6 +8,22 @@ FilmScript is a simple web-based application that allows users to view a list of
 
 The application is designed to provide a quick, user-friendly interface for movie lovers, film researchers, and anyone interested in exploring movie databases. The data is dynamically loaded from an external source (a CSV file), making it easy to keep the movie list up-to-date without needing to modify the core application code.
 
+## Key Features
+
+- **Genre-based Filtering**: Users can filter the displayed movies based on their genre preference (e.g., Horror, Comedy, Sci-Fi, etc.).
+- **Dynamic Movie List**: The movies are loaded dynamically from an external CSV file, making it easy to maintain and update the list without altering the application code.
+- **Image Display**: Movie posters or images are fetched and displayed directly from the URL provided in the CSV file, enhancing the visual appeal of the movie list.
+- **Simple and Intuitive Interface**: The table format is straightforward, and the dropdown filter for genres allows easy selection, making it user-friendly.
+- **Automatic Data Parsing**: The application processes the CSV data and converts it into an HTML table automatically, reducing the need for manual updates or data entry.
+
+## How It Works
+
+1. **HTML Structure**: The application’s front end consists of a basic HTML page, which includes a dropdown filter for genres, two images of popcorn for styling, and an empty table to hold the movie data.
+2. **CSV File Loading**: When the page loads, the JavaScript fetches the CSV file (hosted on GitHub) containing movie information.
+3. **CSV Parsing**: The CSV data is parsed, and an HTML table is dynamically populated with movie details (title, genre, poster image, etc.).
+4. **Filtering**: Users can select a genre from the dropdown list, and the table updates to only show movies from the selected genre.
+5. **Images**: If available, movie poster images are fetched and displayed in the table, adding a visual element to the data.
+
 ## Problem It Solves
 
 In the real world, film enthusiasts and researchers often need to navigate large databases of movies. Manually browsing through endless lists of movies can be tedious and time-consuming. FilmScript helps solve this problem by:
@@ -25,23 +41,6 @@ This project can be easily implemented in several real-world scenarios:
 - **Movie Recommendation System**: FilmScript can be expanded to recommend films based on genre preferences, making it a useful tool for personalized movie suggestions.
 - **Film Research & Education**: Academics or film critics can use this tool to explore different film genres and analyze movie trends in an interactive way.
 - **Event-based Movie Showings**: Cinemas or streaming platforms could use this setup to display movies currently available for viewing, with genre filtering to help users find relevant films.
-
-
-## Key Features
-
-- **Genre-based Filtering**: Users can filter the displayed movies based on their genre preference (e.g., Horror, Comedy, Sci-Fi, etc.).
-- **Dynamic Movie List**: The movies are loaded dynamically from an external CSV file, making it easy to maintain and update the list without altering the application code.
-- **Image Display**: Movie posters or images are fetched and displayed directly from the URL provided in the CSV file, enhancing the visual appeal of the movie list.
-- **Simple and Intuitive Interface**: The table format is straightforward, and the dropdown filter for genres allows easy selection, making it user-friendly.
-- **Automatic Data Parsing**: The application processes the CSV data and converts it into an HTML table automatically, reducing the need for manual updates or data entry.
-
-## How It Works
-
-1. **HTML Structure**: The application’s front end consists of a basic HTML page, which includes a dropdown filter for genres, two images of popcorn for styling, and an empty table to hold the movie data.
-2. **CSV File Loading**: When the page loads, the JavaScript fetches the CSV file (hosted on GitHub) containing movie information.
-3. **CSV Parsing**: The CSV data is parsed, and an HTML table is dynamically populated with movie details (title, genre, poster image, etc.).
-4. **Filtering**: Users can select a genre from the dropdown list, and the table updates to only show movies from the selected genre.
-5. **Images**: If available, movie poster images are fetched and displayed in the table, adding a visual element to the data.
 
 ## Future Suggested Enhancements
 
