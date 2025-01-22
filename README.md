@@ -25,9 +25,9 @@ The application is designed to provide a quick, user-friendly interface for movi
 5. **Images**: If available, movie poster images are fetched and displayed in the table, adding a visual element to the data.
 
 ## Process Plan
-
-<img align="center" src="https://github.com/user-attachments/assets/4ca7f3ec-3ca3-4ef0-936e-98a4b775e34e">
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ca7f3ec-3ca3-4ef0-936e-98a4b775e34e">
+</p>
 
 ## Problem It Solves
 
