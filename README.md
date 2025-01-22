@@ -27,7 +27,7 @@ The application is designed to provide a quick, user-friendly interface for movi
 ## Process Plan
 
 <p align="center">
-  <img src="http://some_place.com/image.png](https://github.com/user-attachments/assets/ab8e0cf8-c85a-4250-a136-a67f547610a1" />
+  <img src="![processPlan](https://github.com/user-attachments/assets/0a1f926e-3a2a-4311-a48d-be0212b2dd52)" />
 </p>
 
 ## Problem It Solves
