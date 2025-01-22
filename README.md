@@ -8,7 +8,7 @@ FilmScript is a simple web-based application that allows users to view a list of
 
 The application is designed to provide a quick, user-friendly interface for movie lovers, film researchers, and anyone interested in exploring movie databases. The data is dynamically loaded from an external source (a CSV file), making it easy to keep the movie list up-to-date without needing to modify the core application code.
 
-## Key Features Implemented
+## Key Features
 
 - **Genre-based Filtering**: Users can filter the displayed movies based on their genre preference (e.g., Horror, Comedy, Sci-Fi, etc.).
 - **Dynamic Movie List**: The movies are loaded dynamically from an external CSV file, making it easy to maintain and update the list without altering the application code.
