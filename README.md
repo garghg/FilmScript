@@ -49,3 +49,8 @@ This project can be easily implemented in several real-world scenarios:
 - **More Detailed Movie Information**: Enhance the table to display additional information such as release year, runtime, or rating.
 - **Improved Filtering**: Allow for multiple genre selections or advanced filters (e.g., by rating, year, etc.).
 - **Responsive Design**: Make the page responsive so it works well on all screen sizes, including mobile devices.
+
+### Resources used:
+- [Covalence's YouTube Tutorial]([url](https://youtu.be/oencyPPBTUQ))
+- [Kaggle 1000 Movies Database]([url](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows))
+- [ChatGPT]([url](https://chatgpt.com/))
