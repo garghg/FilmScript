@@ -1,0 +1,80 @@
+/* Source: coolors.co
+color theme:
+#050608
+#0e1e35
+#f7f0f5
+#f5ebd5
+#ecb536
+ */
+
+body{
+    background-color: #0e1e35;
+    user-select: none;
+    zoom: 75%;
+    overflow-x: hidden;
+}
+
+h1{
+    font-weight: lighter;
+    color: #f7f0f5;
+    margin-left: 2%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 5px;
+    text-shadow: 0px 0px 10px #ecb536;
+}
+
+#popcorn1, #popcorn2{
+    position: absolute;
+    top: 5%;
+}
+
+#popcorn1{
+    left: 10%;
+    rotate: 10deg;
+}
+
+#popcorn2{
+    left: 80%;
+    rotate: -10deg;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 5%;
+    text-align: center;
+}
+
+table {
+    width: fit-content;
+    margin-left: -0.25%;
+}
+
+table td,
+table th {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+    text-align: center;
+}
+
+table tr {
+    background-color: #f2f2f2;
+}
+
+table th {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: left;
+    background-color: #ecb536;
+    color: white;
+    white-space: nowrap;
+    text-align: center;
+}
+
+#genre-filter{
+    width: 300px;
+    font-size: large;
+    background-color: #ecb536;
+    margin: 1%;
+    margin-left: 43%;
+    margin-bottom: 3%;
+}
