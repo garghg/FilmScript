@@ -26,7 +26,8 @@ The application is designed to provide a quick, user-friendly interface for movi
 
 ## Process Plan
 
-<img align="right" width="100" height="100" src="https://picsum.photos/100/100](https://github.com/user-attachments/assets/cce0d176-17a1-4151-858b-0d689ef5a94e">
+<img align="center" width="100" height="100" src="https://github.com/user-attachments/assets/4ca7f3ec-3ca3-4ef0-936e-98a4b775e34e">
+
 
 ## Problem It Solves
 
