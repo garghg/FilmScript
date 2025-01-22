@@ -1,5 +1,3 @@
-// reference: https://youtu.be/oencyPPBTUQ
-
 (function () {
     // Constants for CSV parsing
     var DELIMITER = ',';  // Separator for values in the CSV file
