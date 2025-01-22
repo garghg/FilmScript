@@ -24,6 +24,11 @@ The application is designed to provide a quick, user-friendly interface for movi
 4. **Filtering**: Users can select a genre from the dropdown list, and the table updates to only show movies from the selected genre.
 5. **Images**: If available, movie poster images are fetched and displayed in the table, adding a visual element to the data.
 
+## Process Plan
+
+![processPlan](https://github.com/user-attachments/assets/ab8e0cf8-c85a-4250-a136-a67f547610a1)
+
+
 ## Problem It Solves
 
 In the real world, film enthusiasts and researchers often need to navigate large databases of movies. Manually browsing through endless lists of movies can be tedious and time-consuming. FilmScript helps solve this problem by:
