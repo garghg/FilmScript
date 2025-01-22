@@ -7,21 +7,28 @@ color theme:
 #ecb536
  */
 
+ /* style body */
 body{
     background-color: #0e1e35;
     user-select: none;
-    zoom: 75%;
-    overflow-x: hidden;
+    zoom: 75%; /* zoom out page to fit all content */
+    overflow-x: hidden; /* hide horizonatal scollbar */
 }
 
+/* sylte FilmScript Heading */
 h1{
+    font-size: 100px;
+    margin-top: 5%;
+    text-align: center;
     font-weight: lighter;
     color: #f7f0f5;
     margin-left: 2%;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    letter-spacing: 5px;
+    letter-spacing: 10px;
     text-shadow: 0px 0px 10px #ecb536;
 }
+
+/* style the popcorm images */
 
 #popcorn1, #popcorn2{
     position: absolute;
@@ -38,20 +45,17 @@ h1{
     rotate: -10deg;
 }
 
-h1{
-    font-size: 50px;
-    margin-top: 5%;
-    text-align: center;
-}
+/* set table width and margin to align to center of page */
 
 table {
     width: fit-content;
     margin-left: -0.25%;
 }
 
+/* style table to center and add padding to table elements */
+
 table td,
 table th {
-    border: 1px solid #ddd;
     padding: 0.5em;
     text-align: center;
 }
@@ -70,11 +74,11 @@ table th {
     text-align: center;
 }
 
+/* style the dropdown to filter movies by genre */
 #genre-filter{
     width: 300px;
     font-size: large;
     background-color: #ecb536;
-    margin: 1%;
     margin-left: 43%;
     margin-bottom: 3%;
 }
