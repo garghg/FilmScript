@@ -51,6 +51,6 @@ This project can be easily implemented in several real-world scenarios:
 - **Responsive Design**: Make the page responsive so it works well on all screen sizes, including mobile devices.
 
 ### Resources used:
-- [Covalence's YouTube Tutorial]([https://youtu.be/oencyPPBTUQ])
-- [Kaggle 1000 Movies Database]([https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)]
-- [ChatGPT]([https://chatgpt.com/])
+- [Covalence's YouTube Tutorial](https://youtu.be/oencyPPBTUQ)
+- [Kaggle 1000 Movies Database](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+- [ChatGPT](https://chatgpt.com/)
